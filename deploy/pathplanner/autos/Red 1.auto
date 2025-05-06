@@ -1,0 +1,43 @@
+{
+  "version": "2025.0",
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "score(1)"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "coral(2)"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "score(2L4)"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "coral(3)"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Copy of coral(3)"
+          }
+        }
+      ]
+    }
+  },
+  "resetOdom": true,
+  "folder": "red alliance ",
+  "choreoAuto": false
+}

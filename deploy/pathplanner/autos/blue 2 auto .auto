@@ -1,0 +1,55 @@
+{
+  "version": "2025.0",
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "score one"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "grab one"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "score two"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "grab two"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "score three"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "grab four"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "score four"
+          }
+        }
+      ]
+    }
+  },
+  "resetOdom": true,
+  "folder": "blue alliance",
+  "choreoAuto": false
+}
